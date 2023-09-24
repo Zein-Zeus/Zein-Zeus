@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Svelte and SvelteKit**
 
-- 📫 How to reach me **zenianouphal5@gmail.com**
+- 📫 Contact me at **zenianouphal5@gmail.com**
 
 - ⚡ Fun fact **My code is 90% coffee and 10% debugging.**
 
