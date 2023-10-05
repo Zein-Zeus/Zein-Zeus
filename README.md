@@ -9,7 +9,7 @@
 
 - 📫 Contact me at **zenianouphal5@gmail.com**
 
-- ⚡ Fun fact **My code is 90% coffee and 10% debugging.**
+- ⚡ Fun fact: **My code is 90% coffee and 10% debugging.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
