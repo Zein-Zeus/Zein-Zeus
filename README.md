@@ -3,9 +3,9 @@
 <h3 align="center">Coding Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjYxbXhtNno0b2ZlcHYyZGsyZXR0MWRwejB3eXY1cGVlYmRsbnJ0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **SVG Animator**
+- 🔭 Currently working on **SVG Animator**
 
-- 🌱 I’m currently learning **Svelte and SvelteKit**
+- 🌱 Currently learning **Svelte and SvelteKit**
 
 - 📫 Contact me at **zenianouphal5@gmail.com**
 
