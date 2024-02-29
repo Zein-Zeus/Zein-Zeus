@@ -3,10 +3,6 @@
 <h3 align="center">Coding Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjYxbXhtNno0b2ZlcHYyZGsyZXR0MWRwejB3eXY1cGVlYmRsbnJ0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 Currently working on: **SVG Animator**
-
-- 🌱 Currently learning: **Svelte and SvelteKit**
-
 - 📫 Contact me at: **zenianouphal5@gmail.com**
 
 - ⚡ Fun fact: **My code is 90% coffee and 10% debugging.**
