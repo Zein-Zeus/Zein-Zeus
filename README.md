@@ -3,7 +3,9 @@
 <h3 align="center">Coding Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjYxbXhtNno0b2ZlcHYyZGsyZXR0MWRwejB3eXY1cGVlYmRsbnJ0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 📫 Contact me at: **zenianouphal5@gmail.com**
+- Email: **zenianouphal5@gmail.com**
+
+- LinkedIn: [**zenianouphal**](https://www.linkedin.com/in/zenianouphal)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
