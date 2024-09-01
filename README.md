@@ -5,8 +5,6 @@
 
 - 📫 Contact me at: **zenianouphal5@gmail.com**
 
-- ⚡ Fun fact: **My code is 90% coffee and 10% debugging.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zenia-nouphal05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zenia-nouphal05" height="30" width="40" /></a>
